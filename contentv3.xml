@@ -219,7 +219,7 @@
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="Banner_Youtube_REDMAT_(6).png"></string>
+                  <string value="images/Banner_Youtube_REDMAT_(6).png"></string>
                   <string role="key" value="_userName"></string>
                   <string value="c:\\users\\pc\\appdata\\local\\temp\\tmpklufin\\Banner_Youtube_REDMAT_(6).png"></string>
                   <string role="key" value="checksum"></string>
@@ -453,7 +453,7 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="geo2D.png"></string>
+                     <string value="images/geo2D.png"></string>
                      <string role="key" value="_userName"></string>
                      <string value="c:\\users\\pc\\appdata\\local\\temp\\tmpklufin\\geo2D.png"></string>
                      <string role="key" value="checksum"></string>
@@ -505,7 +505,7 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="geo3D.png"></string>
+                     <string value="imagens/geo3D.png"></string>
                      <string role="key" value="_userName"></string>
                      <string value="c:\\users\\pc\\appdata\\local\\temp\\tmpklufin\\geo3D.png"></string>
                      <string role="key" value="checksum"></string>
@@ -557,7 +557,7 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="host.PNG"></string>
+                     <string value="images/host.PNG"></string>
                      <string role="key" value="_userName"></string>
                      <string value="c:\\users\\pc\\appdata\\local\\temp\\tmpklufin\\host.PNG"></string>
                      <string role="key" value="checksum"></string>
@@ -609,7 +609,7 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="hypatia.png"></string>
+                     <string value="images/hypatia.png"></string>
                      <string role="key" value="_userName"></string>
                      <string value="c:\\users\\pc\\appdata\\local\\temp\\tmpklufin\\hypatia.png"></string>
                      <string role="key" value="checksum"></string>
@@ -661,7 +661,7 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="tex_for_gmail.jpg"></string>
+                     <string value="images/tex_for_gmail.jpg"></string>
                      <string role="key" value="_userName"></string>
                      <string value="c:\\users\\pc\\appdata\\local\\temp\\tmpklufin\\tex_for_gmail.jpg"></string>
                      <string role="key" value="checksum"></string>
@@ -713,7 +713,7 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="xy.jpg"></string>
+                     <string value="images/xy.jpg"></string>
                      <string role="key" value="_userName"></string>
                      <string value="c:\\users\\pc\\appdata\\local\\temp\\tmpklufin\\xy.jpg"></string>
                      <string role="key" value="checksum"></string>
@@ -933,7 +933,7 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="webpaint.jpg"></string>
+                     <string value="images/webpaint.jpg"></string>
                      <string role="key" value="_userName"></string>
                      <string value="c:\\users\\pc\\appdata\\local\\temp\\tmpklufin\\webpaint.jpg"></string>
                      <string role="key" value="checksum"></string>
