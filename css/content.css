@@ -47,7 +47,7 @@ ol,ul{color:#3a4749}
 .iDevice{margin:25px 0}
 
 /* iDevice icons */
-.iDevice_header{background:url(icon_exe.png) no-repeat 0 bottom;padding-left:75px;position:relative}
+.iDevice_header{background:url(../images/icons/icon_exe.png) no-repeat 0 bottom;padding-left:75px;position:relative}
 .hidden-idevice .iDevice_header{background-color:#f5f7f8;padding-left:65px;box-shadow:rgba(0, 0, 0, 0.3) 3px 3px 4px}
 .iDevice_header.iDevice_header_noIcon{padding:0}
 .hidden-idevice .iDevice_header.iDevice_header_noIcon{padding-left:20px}
@@ -110,7 +110,7 @@ li{list-style-position:outside}
 #packageLicense p{margin:20px 0}
 #packageLicense a{color:#ecd078;text-decoration:underline}
 #packageLicense.propietary{position:absolute;overflow:hidden;clip:rect(0,0,0,0);height:0}
-#packageLicense.cc{padding:0 20px 0 110px;background:#526668 url(_intef_licenses.gif) no-repeat 20px 5px}
+#packageLicense.cc{padding:0 20px 0 110px;background:#526668 url(../images/gif/_intef_licenses.gif) no-repeat 20px 5px}
 #packageLicense.cc-by-sa{background-position:20px -95px}
 #packageLicense.cc-by-nd{background-position:20px -195px}
 #packageLicense.cc-by-nc{background-position:20px -295px}
